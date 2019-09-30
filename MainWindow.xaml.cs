@@ -24,5 +24,10 @@ namespace WpfGitForJan
         {
             InitializeComponent();
         }
+
+        private void BtnAction_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
