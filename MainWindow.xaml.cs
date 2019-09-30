@@ -27,7 +27,7 @@ namespace WpfGitForJan
 
         private void BtnAction_Click(object sender, RoutedEventArgs e)
         {
-
+            MessageBox.Show("Thank you!");
         }
     }
 }
